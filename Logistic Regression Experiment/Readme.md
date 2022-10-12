@@ -1,12 +1,12 @@
-#Experimenting logistic Regression 
+# Experimenting logistic Regression 
 
 Experimenting logistic regression with given data. 
 IT has four class. 
 1. In this code we have done Multilinear classification model (OVR)
 2. L2 Regularization/ Ridge Regression model for the same data 
 3. Linear Support Vector Classification.
-4.C-Support Vector Classification. 
-And finally model comaprision using visualization 
+4. C-Support Vector Classification. 
+5. And finally model comaprision using visualization 
 
 Rerefence :
 1. https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
